@@ -1,4 +1,6 @@
-ENV kub
+**ENV kub**
+
+
 POSTGRES_DATABASE=nest-booklist
 POSTGRES_USER=sealproton
 POSTGRES_PASSWORD=123456
